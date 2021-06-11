@@ -1,4 +1,4 @@
-# Piecewise-linear Neural ODEs
+# Piecewise-constant Neural ODEs
 # Sam Greydanus, Stefan Lee, Alan Fern
 
 import numpy as np
