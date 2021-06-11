@@ -6,11 +6,11 @@ Run in your browser
 --------
 
 * Lines experiment ([make dataset](https://colab.research.google.com/drive/11Erg10kBjoaM_92VW7myeDUOZILeLiU0?usp=sharing)) ([train all](https://colab.research.google.com/drive/1H70_ooQcqEvDobfVdCvS1rXX8skfnBW_?usp=sharing)) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
-* Circles experiment (make dataset) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
-* Billiards1D experiment (make dataset) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
-* Billiards2D experiment (make dataset) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
-* PixelBilliards1D experiment (make dataset) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1khovLXxgteMUQpvTfpz7NxKbClGHJ9jO?usp=sharing))
-* PixelBilliards2D experiment (make dataset) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1khovLXxgteMUQpvTfpz7NxKbClGHJ9jO?usp=sharing))
+* Circles experiment ([make dataset](https://github.com/greydanus/piecewise_node/blob/main/billiards.py)) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
+* Billiards1D experiment ([make dataset](https://github.com/greydanus/piecewise_node/blob/main/billiards.py)) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
+* Billiards2D experiment ([make dataset](https://github.com/greydanus/piecewise_node/blob/main/billiards.py)) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1pKHhqE7DxmECx5JUppvzAHf3N5_2-FSR?usp=sharing))
+* PixelBilliards1D experiment ([make dataset](https://colab.research.google.com/drive/1PnWvOkYt3OiS5vxb1fMhOuCMmWjK6gjz?usp=sharing)) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1khovLXxgteMUQpvTfpz7NxKbClGHJ9jO?usp=sharing))
+* PixelBilliards2D experiment ([make dataset](https://colab.research.google.com/drive/1XnJm_WmNYzx05XZCJ1o5BqGSlwBdZvrg?usp=sharing)) (train jumpy) (train baseline) ([analysis](https://colab.research.google.com/drive/1khovLXxgteMUQpvTfpz7NxKbClGHJ9jO?usp=sharing))
 
 Summary
 --------
