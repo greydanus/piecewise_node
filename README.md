@@ -2,6 +2,8 @@ Piecewise-constant Neural ODEs
 =======
 Sam Greydanus, Stefan Lee, Alan Fern | 2021
 
+[Blog post](https://greydanus.github.io/2021/06/11/piecewise-nodes/) | [Paper](https://arxiv.org/abs/2106.06621)
+
 Run in your browser
 --------
 
